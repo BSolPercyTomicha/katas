@@ -15,6 +15,12 @@
             "request": "launch",
             "type": "dart",
             "program": "bin/kata_1_refactor/main.dart"
-        }
+        },
+        {
+            "name": "Run Kata_2",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/kata_2/main.dart"
+        },
     ]
 }
