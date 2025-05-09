@@ -11,7 +11,7 @@
             "program": "bin/kata_1/main.dart"
         },
         {
-            "name": "Run Kata_1",
+            "name": "Run Kata_1 Refactor",
             "request": "launch",
             "type": "dart",
             "program": "bin/kata_1/refactor/main.dart"
