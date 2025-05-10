@@ -52,5 +52,11 @@
             "type": "dart",
             "program": "bin/kata_4_refactor/main.dart"
         },
+        {
+            "name": "Run Kata_5",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/kata_5/main.dart"
+        },
     ]
 }
